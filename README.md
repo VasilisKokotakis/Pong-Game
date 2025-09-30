@@ -1,9 +1,8 @@
 
----
+
 
 ### **README.md**
 
-````markdown
 # 🕹️ Retro Pong
 
 Relive the golden age of gaming with this **classic Pong clone** built in Python using the `turtle` graphics module.  
@@ -44,8 +43,8 @@ Two players, one ball, endless rivalry. 🚀
 Clone the repository and start the game:
 
 ```bash
-git clone https://github.com/VasilisKokotakis/Snake-Game.git
-cd retro-pong
+git clone https://github.com/VasilisKokotakis/Pong-Game.git
+cd Pong-Game
 python3 main.py
 ````
 
