@@ -1,12 +1,9 @@
-
-
-
 ### **README.md**
 
-# 🕹️ Retro Pong
+# Retro Pong
 
 Relive the golden age of gaming with this **classic Pong clone** built in Python using the `turtle` graphics module.  
-Two players, one ball, endless rivalry. 🚀
+Two players, one ball, endless rivalry.
 
 ---
 
@@ -19,7 +16,7 @@ Two players, one ball, endless rivalry. 🚀
 
 ---
 
-## 🕹️ Controls
+## Controls
 
 **Right Paddle (Player 1)**  
 - ⬆️ Arrow Up → Move Up  
@@ -31,14 +28,14 @@ Two players, one ball, endless rivalry. 🚀
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 - Python **3.8+**
 - No external libraries required (uses only the standard `turtle` module)
 
 ---
 
-## 🚀 Installation & Run
+## Installation & Run
 
 Clone the repository and start the game:
 
@@ -50,7 +47,7 @@ python3 main.py
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 retro-pong/
@@ -63,7 +60,7 @@ retro-pong/
 
 ---
 
-## ✨ Features
+## Features
 
 * Smooth paddle and ball movement
 * Ball speeds up after every paddle hit
@@ -72,7 +69,7 @@ retro-pong/
 
 ---
 
-## 🛠️ Future Ideas
+## Future Ideas
 
 * Add a **Game Over screen** when a player reaches 10 points
 * Add **sound effects** for hits & scoring
@@ -80,10 +77,9 @@ retro-pong/
 
 ---
 
-## 📜 License
+## License
 
-This project is licensed under the MIT License.
-Feel free to play, modify, and share! ✌️
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
-
+---
 
