@@ -7,7 +7,7 @@ Two players, one ball, endless rivalry.
 
 ---
 
-## 🎮 Gameplay
+## Gameplay
 
 - The ball bounces around the screen.
 - Each player controls a paddle to keep the ball in play.
